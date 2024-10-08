@@ -16,7 +16,7 @@
 
 ## About Me
 
-+ Hi, I'm Vinicius Froes, a passionate Software Engineer and CEO of Froes Soluções em Tecnologia and Master By Tech.
++ Hi, I'm Vinicius Froes, a Software Engineer and CEO of Froes Soluções em Tecnologia and Master By Tech.
 + I specialize in creating websites, customized applications for ERP/WMS software, mobile development, and automation robots.
 
 ## Skills
@@ -48,12 +48,7 @@
   </div>
 </div>
 
-<style>
-@keyframes marquee {
-  0% { transform: translate(100%, 0); }
-  100% { transform: translate(-100%, 0); }
-}
-</style>
+
 
 ## More About Me
 
